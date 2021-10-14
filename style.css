@@ -1,0 +1,16 @@
+#nav
+{
+    position: absolute;
+    margin-left: 45%;
+}
+
+#wnm
+{
+    position: absolute;
+    margin-left: 10%;
+}
+
+*{
+    margin: 0%;
+    padding: 0%;
+}
